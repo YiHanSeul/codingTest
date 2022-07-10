@@ -21,7 +21,7 @@ def add(a,b):
     return a+b
 print(add(3,4))
 '''
-    이거  주석임
+    이거  주석입니다
 '''
 
 food='"payhon is ver easy" \nhe says'
