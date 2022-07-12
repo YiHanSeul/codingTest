@@ -19,8 +19,8 @@ def solution(priorities, location):
         
     return answer
 
+#Test
 
-
-priorities=[2, 1, 3, 2]
+priorities=[2, 1, 3, 2,3]
 location=2
 solution(priorities,location)

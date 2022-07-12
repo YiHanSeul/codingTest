@@ -27,3 +27,9 @@ print(2%5)
 
 test=[1,2,34,4,5]
 print(max(test))
+
+a,b=5,3
+t1=a & b
+t2= a | b
+print(t1)
+print(t2)
