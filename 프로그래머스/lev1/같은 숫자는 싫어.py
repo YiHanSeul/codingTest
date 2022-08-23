@@ -1,5 +1,6 @@
 def solution(arr):
     answer = []
+    
     temp =[]
     for i in range(len(arr)):
         if i==0:
